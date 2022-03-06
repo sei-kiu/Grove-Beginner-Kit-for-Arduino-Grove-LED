@@ -4,4 +4,4 @@
 
 Grove Beginner Kit for Arduino
 
-This example shows how to control the LED
+This example shows how to control the LED using the button.
